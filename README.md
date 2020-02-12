@@ -1,5 +1,7 @@
 # MinION Monitor
 
+#### Disclaimer: I don't work for ONT. I can't promise this will work for you. I don't expect it will break anything or ruin an experiment, but *caveat emptor*.
+
 *So you have a Oxford Nanopore MinION sequencer (yay!)*  
 **BUT**  
 *You want to run it using a computer that doesn't quite meet ONT's standards?*  
